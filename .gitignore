@@ -1,0 +1,31 @@
+# Unreal Engine .gitignore
+
+# Compiled/build files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Build artifacts
+Build/
+
+# IDE files
+.vs/
+.vscode/
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated files
+*.generated.h
+
+# Crash reports
+CrashReportClient/
